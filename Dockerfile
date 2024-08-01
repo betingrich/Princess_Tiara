@@ -1,4 +1,4 @@
-FROM node:lts-buster
+ROM node:lts-buster
 
 RUN apt-get update && \
   apt-get install -y \
@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/DeeCeeXxx/Queen_Anita-V2  /root/DeeCeeXxx
-WORKDIR /root/DeeCeeXxx/
+RUN git clone https://github.com/betingrich/Princess_Tiara /root/betingrich
+WORKDIR /root/betingrich/
 
 
 COPY package.json .

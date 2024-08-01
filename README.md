@@ -6,7 +6,7 @@
  </p>
 <p align="center">
 <img src="https://telegra.ph/file/257400b19c4f872174387.jpg"/> 
-<p align="center"><img src="https://profile-counter.glitch.me/{DeeCeeXxx}/count.svg" alt="betingrich :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{betingrich}/count.svg" alt="betingrich :: Visitor's Count" /></p>
 <p align="center">
 <a href="https://github.com/betingrich/followers"><img title="Followers" src="https://img.shields.io/github/followers/betingrich?color=red&style=flat-square"></a>
 <a href="https://github.com/betingrich/Princess_Tiara/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx/Princess_Tiara?color=blue&style=flat-square"></a>
